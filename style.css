@@ -1,0 +1,17 @@
+body {
+    
+    background-image: url("back.jpg");
+    background-size: cover;
+}
+button{
+    background-color: transparent;
+    align-items: center;
+    text-align: center;
+    height: 100;
+    width: 1500;
+
+
+}
+#header{
+    text-align: center;
+}
