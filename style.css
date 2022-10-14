@@ -1,13 +1,18 @@
+
 body {
     
-    background-image: url("back.jpg");
+    background-color: darkorchid;
     background-size: cover;
 }
 button{
     background-color: transparent;
     align-items: center;
     text-align: center;
-    height: 100;
+    background-size: cover;
+    border-radius: 30%;
+    margin: 10pt;
+    background-color:darkmagenta ;
+        height: 100;
     width: 1500;
 
 
